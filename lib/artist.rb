@@ -5,3 +5,5 @@ class Artist
     @name = name
   end
 end
+
+p1 = Artist.new("deezy")
