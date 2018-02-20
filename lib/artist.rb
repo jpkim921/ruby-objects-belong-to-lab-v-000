@@ -7,6 +7,5 @@ class Artist
 
 end
 
-p1 = Artist.new("deezy")
-
-p p1.name
+p1 = Artist.new
+# p p1.name
