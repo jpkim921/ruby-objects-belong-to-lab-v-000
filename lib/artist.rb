@@ -8,4 +8,4 @@ class Artist
 end
 
 p1 = Artist.new
-# p p1.name
+p p1.name = "deezy"
