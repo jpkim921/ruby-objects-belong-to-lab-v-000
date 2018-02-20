@@ -7,3 +7,4 @@ class Artist
 end
 
 p1 = Artist.new("deezy")
+p p1
